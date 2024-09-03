@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me 🤖:
 
 Olá! Sou Gustavo, atualmente trabalho com Pesquisa e Desenvolvimento. Sou apaixonado por tecnologia, robótica e inovação. Minha jornada profissional abrange:
 
