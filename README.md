@@ -3,8 +3,11 @@
 Olá! Sou Gustavo, atualmente trabalho com Pesquisa e Desenvolvimento. Sou apaixonado por tecnologia, robótica e inovação. Minha jornada profissional abrange:
 
 🚀 **Desenvolvimento Full Stack**: HTML, CSS, JavaScript, Python, Node.js
+
 🤖 **Robótica**: Capitão da equipe Project Neon, robótica de combate, corrida de carros autônomos
+
 🔬 **Pesquisa**: Iniciações científicas na UFABC, automação e análise de dados
+
 💡 **Inovação**: Desenvolvimento de protótipos e soluções tecnológicas avançadas
 
 Tenho experiência em liderança de equipes, gestão de projetos e resolução criativa de problemas. Estou sempre em busca de novos desafios para aplicar minha experiência multidisciplinar em tecnologia.
