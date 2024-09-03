@@ -14,17 +14,6 @@ Olá! Sou Gustavo, um Analista de Pesquisa e Desenvolvimento Pleno apaixonado po
 - Iniciações científicas na UFABC
 - Projetos de automação residencial e análise de dados críticos (COVID-19, hemocentros)
 
-💡 **Inovação Tecnológica**
-- Condução de estudos aprofundados e desenvolvimento de protótipos
-- Colaboração com equipes multidisciplinares para soluções de mercado
-
-🌟 **Habilidades-chave**
-- Liderança de equipes e gestão de projetos
-- Resolução criativa de problemas
-- Adaptabilidade a novas tecnologias e metodologias
-
-Estou sempre em busca de novos desafios e oportunidades para aplicar minha experiência em projetos inovadores que façam a diferença no mundo da tecnologia.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavodrl/) 
 
