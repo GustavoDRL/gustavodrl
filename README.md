@@ -1,16 +1,10 @@
 # 🤖 About Me:
-
-Olá! Sou Gustavo, atualmente trabalho com Pesquisa e Desenvolvimento. Sou apaixonado por tecnologia, robótica e inovação. Minha jornada profissional abrange:
-
-🚀 **Desenvolvimento Full Stack**: HTML, CSS, JavaScript, Python, Node.js
-
-🤖 **Robótica**: Capitão da equipe Project Neon, robótica de combate, corrida de carros autônomos
-
-🔬 **Pesquisa**: Iniciações científicas na UFABC, automação e análise de dados
-
-💡 **Inovação**: Desenvolvimento de protótipos e soluções tecnológicas avançadas
-
-Tenho experiência em liderança de equipes, gestão de projetos e resolução criativa de problemas. Estou sempre em busca de novos desafios para aplicar minha experiência multidisciplinar em tecnologia.
+Hello! I'm Gustavo, I currently work with Research and Development. I'm passionate about technology, robotics, and innovation. My professional journey includes:
+🚀 **Full Stack Development**: HTML, CSS, JavaScript, Python, Node.js
+🤖 **Robotics**: Captain of Project Neon team, combat robotics, autonomous car racing
+🔬 **Research**: Scientific initiations at UFABC, automation and data analysis
+💡 **Innovation**: Development of prototypes and advanced technological solutions
+I have experience in team leadership, project management, and creative problem solving. I'm always looking for new challenges to apply my multidisciplinary experience in technology.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavodrl/) 
