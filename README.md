@@ -1,9 +1,14 @@
 # 🤖 About Me:
 Hello! I'm Gustavo, I currently work with Research and Development. I'm passionate about technology, robotics, and innovation. My professional journey includes:
+
 🚀 **Full Stack Development**: HTML, CSS, JavaScript, Python, Node.js
+
 🤖 **Robotics**: Captain of Project Neon team, combat robotics, autonomous car racing
+
 🔬 **Research**: Scientific initiations at UFABC, automation and data analysis
+
 💡 **Innovation**: Development of prototypes and advanced technological solutions
+
 I have experience in team leadership, project management, and creative problem solving. I'm always looking for new challenges to apply my multidisciplinary experience in technology.
 
 ## 🌐 Socials:
