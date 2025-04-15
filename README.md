@@ -18,7 +18,7 @@
 
 Hello, world! I'm **Gustavo**, a passionate technologist working in Research & Development. I thrive at the intersection of software development, robotics, and innovation.
 
-- 🔭 Currently working on advancing robotics technology and automation solutions
+- 🔭 Currently working on advancing Generative AI, robotics and automation solutions
 - 🌱 Always learning about emerging tech trends and expanding my skillset
 - 👥 Captain of Project Neon team, leading combat robotics and autonomous car racing projects
 - 🔬 Conducted scientific research at UFABC focusing on automation and data analysis
