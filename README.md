@@ -113,7 +113,7 @@ My multidisciplinary background allows me to approach challenges with a unique p
   <img src="https://komarev.com/ghpvc/?username=gustavodrl&color=blueviolet&style=for-the-badge">
   
   <div style="margin-top: 20px;">
-    <a href="https://portfolio-site-b708zcgxw-gustavodrls-projects.vercel.app/">
+    <a href="https://portfolio-site-git-main-gustavodrls-projects.vercel.app/">
       <img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20Site-%E2%86%92-20B2AA?style=for-the-badge&labelColor=black&logoColor=white" alt="Portfolio" width="320" height="50"/>
     </a>
     <a href="https://www.linkedin.com/in/gustavodrl/">
