@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://portfolio-site-b708zcgxw-gustavodrls-projects.vercel.app/">
+  <a href="https://portfolio-site-b708zcgxw-gustavodrls-projects.vercel.app/](https://portfolio-site-git-main-gustavodrls-projects.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-%E2%86%92-brightgreen?style=for-the-badge&labelColor=black&color=20B2AA&logoColor=white" alt="Portfolio" width="200" height="50"/>
   </a>
   
